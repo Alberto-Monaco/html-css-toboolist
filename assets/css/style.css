@@ -131,8 +131,21 @@ body {
 
 }
 hr{
-    border-color: rgba(231, 231, 231, 0.336);
+    border-color: rgba(231, 231, 231, 0.521);
 }
 .newtask{
     padding-bottom: 7px;
+}
+.button_add2 {
+  border-radius: 70%;
+  background-color: white;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  color: grey;
+  font-size: 14px;
+  width: 100px;
+  height: 30px;
+  border: 0.2px solid rgb(231, 231, 231);
 }
