@@ -1,5 +1,5 @@
 body{
-    background-color: grey;
+    background-color: rgb(231, 231, 231);
     margin: auto;
 }
 .intestation {
@@ -16,4 +16,41 @@ body{
     vertical-align: 25%; 
     font-size: 36px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.tab{
+    width: 65%;
+    margin: auto;
+    margin-top: 100px;
+    background-color: white;
+    
+}
+.button_add{
+    border-radius: 70%;
+        background-color: rgb(63, 109, 235);
+    border-top-left-radius: 5px ;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: white;
+    font-size: 14px;
+    width: 100px;
+    height: 30px;
+}
+.task{
+    padding-left: 50px;
+    padding-top: 10px;
+}
+.search{
+    margin: 10px;
+    border-radius: 50%;
+    border: 1px solid rgb(231, 231, 231);
+    border-top-left-radius: 5px ;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color:rgb(231, 231, 231);
+    font-size: 14px;
+    width: 100px;
+    height: 30px;
+    text-align: center;
 }
