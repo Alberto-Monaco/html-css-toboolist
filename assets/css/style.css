@@ -1,0 +1,13 @@
+body{
+    background-color: grey;
+    margin: auto;
+}
+.intestation {
+    background-color: white;
+}
+.title{
+    display: inline-block;
+}
+.logo{
+    display: inline-block;
+}
