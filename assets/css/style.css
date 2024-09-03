@@ -4,10 +4,13 @@ body{
 }
 .intestation {
     background-color: white;
+
 }
-.title{
+.logo {
     display: inline-block;
+
 }
-.logo{
-    display: inline-block;
+.title {
+    display: inline 
+
 }
