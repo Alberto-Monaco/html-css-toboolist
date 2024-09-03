@@ -130,3 +130,9 @@ body {
   font-size: 10px;
 
 }
+hr{
+    border-color: rgba(231, 231, 231, 0.336);
+}
+.newtask{
+    padding-bottom: 7px;
+}
