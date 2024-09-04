@@ -1,19 +1,23 @@
 body {
   background-color: rgb(231, 231, 231);
   margin: auto;
-  margin-bottom: 30px;
 }
 .intestation {
   background-color: white;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
 }
 .logo {
   display: inline-block;
+  vertical-align: middle;
 }
 .title {
   display: inline-block;
   margin: 0;
   vertical-align: 25%;
   font-size: 36px;
+  vertical-align: middle;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 .tab {
@@ -21,7 +25,7 @@ body {
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
   border-bottom-left-radius: 5px;
-  border-bottom-right-radius: 5px;
+  border-bottom-right-radius: ;
   margin: auto;
   margin-top: 100px;
   background-color: white;
