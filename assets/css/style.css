@@ -137,10 +137,9 @@ body {
   border-bottom-right-radius: 10px;
   padding: 7px;
   font-size: 10px;
-
 }
 hr{
-    border-color: rgba(231, 231, 231, 0.521);
+    border-color: rgba(231, 231, 231, 0.116);
 }
 .newtask{
     padding-bottom: 7px;
